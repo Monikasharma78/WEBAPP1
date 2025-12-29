@@ -8,7 +8,7 @@ def add_todo():
     function.write_todos(todos)
 
 
-st.title("My Todo App")
+st.title("My Todo App") 
 st.subheader("This is my todo app.")
 st.write("This App is to increase your productivity.")
 
